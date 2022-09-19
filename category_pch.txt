@@ -23,7 +23,7 @@
 [dwarf_2nd_group]	=	22
 [strider]	=	23
 [strider_group]	=	24
-[red_strider_group]	=	25
+[star_strider_group]	=	25
 [wolf_group]	=	26
 [grown_up_wolf_group]	=	27
 [hatchling_group]	=	28
